@@ -9,7 +9,7 @@ Thanks for visiting my GitHub account!
 
 <img src ="https://miro.medium.com/v2/resize:fit:548/1*KEtWAhxgLOKU8Sd1np4Phg.png" height = "200px" width = "200px"/>**Sign in with Google** makes it easy for you to sign in and sign up to websites and apps across the internet with the trusted security of your Google Account. It eliminates your dependency on passwords, which reduces the frustrations and security risks associated with them. [see-more](https://blog.logrocket.com/guide-adding-google-login-react-app/)
 
-### [Code-Example](https://github.com/learnwithfair/mern-user-admin-mgt)
+### [Code-Example](https://github.com/learnwithfair/mern-user-admin-authentication)
 
 ## Source Code (Download)
 
